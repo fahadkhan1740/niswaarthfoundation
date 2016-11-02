@@ -19,15 +19,15 @@ Route::get('/about', function () {
     return view('about');
 });
 
-Route::get('/whatWeDo', function () {
+Route::get('/what-we-do', function () {
     return view('whatWeDo');
 });
 
-Route::get('/whatCanYouDo', function () {
+Route::get('/what-can-you-do', function () {
     return view('text');
 });
 
-Route::get('/newsAndInfo', function () {
+Route::get('/news-and-info', function () {
     return view('portfolio');
 });
 

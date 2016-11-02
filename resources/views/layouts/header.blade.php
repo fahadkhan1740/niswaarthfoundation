@@ -57,16 +57,16 @@ _________________________________________________________ -->
                             <a href="/about">Who We Are</a>
 
                         </li>
-                        <li class="{{ Request::is('whatWeDo') ? 'class = active' : '' }}">
-                            <a href="/whatWeDo">What We Do</a>
+                        <li class="{{ Request::is('what-we-do') ? 'class = active' : '' }}">
+                            <a href="/what-we-do">What We Do</a>
                         </li>
 
-                        <li class="{{ Request::is('whatCanYouDo') ? 'class = active' : '' }}">
-                            <a href="/whatCanYouDo">What Can You Do</a>
+                        <li class="{{ Request::is('what-can-you-do') ? 'class = active' : '' }}">
+                            <a href="/what-can-you-do">What Can You Do</a>
                         </li>
 
-                        <li class="{{ Request::is('newsAndInfo') ? 'class = active' : '' }}">
-                            <a href="/newsAndInfo">News And Info</a>
+                        <li class="{{ Request::is('news-and-info') ? 'class = active' : '' }}">
+                            <a href="/news-and-info">News And Info</a>
 
                         </li>
                         <li class="{{ Request::is('contact') ? 'class = active' : '' }}">
