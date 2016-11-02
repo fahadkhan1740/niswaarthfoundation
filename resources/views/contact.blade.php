@@ -52,7 +52,7 @@
                         <div class="col-md-4">
                             <div class="box-simple">
                                 <div class="icon">
-                                    <i class="fa fa-map-marker"></i>
+                                    <i class="fa fa-map-marker adjust-icon"></i>
                                 </div>
                                 <h3>Address</h3>
                                 <p>259A/3, Ground Floor, Nayyar Manzil,
@@ -68,7 +68,7 @@
 
                             <div class="box-simple">
                                 <div class="icon">
-                                    <i class="fa fa-phone"></i>
+                                    <i class="fa fa-phone adjust-icon"></i>
                                 </div>
                                 <h3>Contact Number</h3>
                                 <p class="text-muted">You can call us at any of the mentioned numbers below..</p>
@@ -85,7 +85,7 @@
 
                             <div class="box-simple">
                                 <div class="icon">
-                                    <i class="fa fa-envelope"></i>
+                                    <i class="fa fa-envelope adjust-icon"></i>
                                 </div>
                                 <h3>E-mail</h3>
                                 <p class="text-muted">Please feel free to write an email to us.</p>

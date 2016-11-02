@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4cb8bffb-6fb8-4725-9586-08fa74419d03" name="niswarth">
+        <fileTransfer host="niswaarthfoundation.org" port="21" password="dfccdfc3dfcbdfc1df9bdf9ddf9edf9a" username="fahad@niswaarthfoundation.org">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
